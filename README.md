@@ -1,2 +1,2 @@
 # python-journey-2026
-my four year jeorney from zero to AI engineer at google
+my journey of learning python, problem solving, and AI from beginner to advance
